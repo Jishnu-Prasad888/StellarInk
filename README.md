@@ -4,6 +4,16 @@
 
 ---
 
+## Screenshots
+
+### Main View
+
+![Main Screenshot](image.png)
+
+### Closer Look
+
+![Closer Look Screenshot](image1.png)
+
 ## How it works
 
 ```
